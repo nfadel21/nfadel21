@@ -18,15 +18,14 @@ I’m transitioning from the legal field into tech, driven by a passion for logi
 
 🛠️ **Skills & Tools**  
 - **Languages**: Python, C, HTML, CSS  
-- **Web**: React.js, Responsive Design  
-- **Data**: SQL (learning), Tableau (learning)  
-- **Tools**: GitHub, VSCode, Anaconda, Jupyter, XCode  
+- **Web**: React.js, Responsive Design   
+- **Tools**: GitHub, VSCode, Anaconda, Jupyter, XCode, Eclipse
 - **Soft Skills**: Bilingual (Spanish), Legal Research, Client Coordination  
 
 ---
 
 📌 **Projects**  
-### 🧮 [Banking System in C](#)  
+### 🧮 [Banking System in C](https://github.com/nicolefadel21/banking-system-c)
 Simulates deposits/withdrawals, includes balance checks and summaries using arrays and loops.  
 > *My first complete logic-based terminal app!*
 
