@@ -13,7 +13,7 @@ I’m an aspiring software engineer transitioning from the legal field into tech
 ---
 
 🛠️ **Skills & Tools**  
-- **Languages**: Python, C, HTML, CSS  
+- **Languages**: Python, C, HTML, CSS, Java 
 - **Web**: React.js, Responsive Design   
 - **Tools**: GitHub, VSCode, Anaconda, Jupyter, XCode, Eclipse
 - **Soft Skills**: Bilingual (Spanish), Legal Research, Client Coordination  
