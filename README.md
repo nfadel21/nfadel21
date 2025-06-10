@@ -1,6 +1,7 @@
 # 👩‍💻 Nicole Fadel
 
-🌟 *Aspiring Software Engineer | Legal Assistant Turned Developer | Python & C Enthusiast*
+**About Me**  
+I’m an aspiring software engineer transitioning from the legal field into tech, driven by a passion for logical problem-solving and building real-world solutions with code. I love working with **Python** and **C**, and I’m currently developing projects that reflect my growth as a developer. My background in law gives me strong organizational and communication skills—perfect for tech teamwork.
 
 ---
 
@@ -8,11 +9,6 @@
 - 🎓 B.S. in Information Technology – *UMass Lowell* (Graduating Aug 2025)  
 - 👩‍💻 *SheCodes Bootcamp* – Front-End & Full-Stack Development  
 - 🎓 B.A. in International Studies – *University of Alabama*  
-
----
-
-💡 **About Me**  
-I’m transitioning from the legal field into tech, driven by a passion for logical problem-solving and building real-world solutions with code. I love working with **Python** and **C**, and I’m currently developing projects that reflect my growth as a developer. My background in law gives me strong organizational and communication skills—perfect for tech teamwork.
 
 ---
 
