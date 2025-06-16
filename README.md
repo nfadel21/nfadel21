@@ -25,7 +25,7 @@ I’m an aspiring software engineer transitioning from the legal field into tech
 Simulates deposits/withdrawals, includes balance checks and summaries using arrays and loops.  
 > *My first complete logic-based terminal app!*
 
-### 📊 [Python Data Summarizer](https://github.com/nfadel21/python-data-summarizer)
+### [Python Data Summarizer](https://github.com/nfadel21/python-data-summarizer)
 Reads and processes data input to summarize and output analysis.  
 > *In progress: adding file support and CSV output!*
 
